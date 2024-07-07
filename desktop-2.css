@@ -1,0 +1,458 @@
+.amakrishna4,
+.r4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.r4 {
+  height: 56px;
+  width: 43px;
+  flex-shrink: 0;
+}
+.amakrishna4 {
+  min-width: 106px;
+  z-index: 1;
+}
+.names,
+.side-panel {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.names {
+  flex-direction: column;
+  padding: var(--padding-2xs) 0 0;
+  margin-left: -10px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-chocolate);
+}
+.side-panel {
+  flex-direction: row;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-ingrid-darling);
+}
+.ota3,
+.t3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.t3 {
+  width: 43px;
+  height: 56px;
+  flex-shrink: 0;
+}
+.ota3 {
+  min-width: 29px;
+  z-index: 1;
+}
+.ota-container,
+.t-group,
+.title {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ota-container {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-14xl);
+  margin-top: -45px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-chocolate);
+}
+.t-group,
+.title {
+  flex-direction: column;
+}
+.title {
+  flex-direction: row;
+}
+.home4 {
+  width: 100px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.about9 {
+  margin: 0;
+}
+.about8 {
+  width: 100px;
+  position: relative;
+  color: var(--color-chocolate);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.education9 {
+  margin: 0;
+}
+.education8,
+.projects4 {
+  position: relative;
+  cursor: pointer;
+}
+.education8 {
+  width: 128px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.projects4 {
+  flex: 1;
+  white-space: nowrap;
+}
+.navigation3,
+.skills5 {
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.navigation3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.skills5 {
+  width: 139px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  cursor: pointer;
+  margin-left: -11px;
+}
+.contact9 {
+  margin: 0;
+}
+.contact8 {
+  width: 139px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  cursor: pointer;
+  margin-left: -11px;
+}
+.navigation-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.header-inner,
+.header1,
+.navigation-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.header-inner {
+  width: 723px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inika);
+}
+.header1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-ingrid-darling);
+}
+.m {
+  height: 67px;
+  position: relative;
+  display: inline-block;
+  min-width: 31px;
+  z-index: 1;
+}
+.personal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs-7) 0 0;
+}
+.y-self-ramakrishna {
+  height: 78px;
+  position: relative;
+  color: var(--color-white);
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.introduction,
+.introduction-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.introduction {
+  row-gap: 20px;
+}
+.introduction-wrapper {
+  padding: 0 var(--padding-14xl);
+  box-sizing: border-box;
+  color: var(--color-chocolate);
+}
+.i-won-express {
+  width: 1320.7px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.aspirations {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.button-child1 {
+  height: 66px;
+  width: 219px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-chocolate);
+  display: none;
+}
+.download-cv4 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  mix-blend-mode: screen;
+  z-index: 1;
+}
+.button4 {
+  width: 221px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-chocolate);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 var(--padding-smi) var(--padding-5xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.span2 {
+  white-space: pre-wrap;
+}
+.span3 {
+  font-family: var(--font-inder);
+}
+.birthday-18082000-container {
+  position: relative;
+}
+.span4 {
+  font-family: var(--font-inder);
+}
+.mobile-91-container {
+  position: relative;
+}
+.phone-info-child {
+  height: 132.5px;
+  width: 319.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -100px;
+  right: -99.7px;
+  z-index: 1;
+}
+.phone-info {
+  flex-direction: row;
+  position: relative;
+}
+.phone-info,
+.phone-info-wrapper,
+.primary-layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.phone-info-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+}
+.primary-layout {
+  width: 319.7px;
+  flex-direction: column;
+  padding: 0 24px;
+  box-sizing: border-box;
+  gap: var(--gap-49xl);
+  min-width: 319.70000000000005px;
+}
+.span5 {
+  white-space: pre-wrap;
+}
+.sompetaandhrapradesh532284 {
+  font-family: var(--font-inder);
+  
+}
+.city-sompetaandhrapradesh5-container {
+  height: 39px;
+  position: relative;
+  display: inline-block;
+}
+.ramakriramakrishnathota204gma {
+  font-family: var(--font-inder);
+  
+}
+.email-ramakriramakrishnathot-container {
+  height: 39px;
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.location-details,
+.primary-layout-parent {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.location-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-49xl);
+  min-width: 241px;
+  max-width: 100%;
+}
+.primary-layout-parent {
+  margin: 0;
+  align-self: stretch;
+  flex-direction: row;
+  gap: 4.3px;
+  white-space: nowrap;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-inknut-antiqua);
+}
+.actions1,
+.greeting,
+.primary-layout-parent {
+  display: flex;
+  max-width: 100%;
+}
+.greeting {
+  width: 695px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.actions1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-abyssinica-sil);
+}
+.desktop-2,
+.navigation-links2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.navigation-links2 {
+  width: 1459.1px;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 31.9px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-9xl-5);
+  color: var(--color-white);
+  font-family: var(--font-inknut-antiqua);
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  padding: var(--padding-122xl) var(--padding-11xs) var(--padding-24xl)
+    var(--padding-62xl);
+  gap: 101.4px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .actions1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 975px) {
+  .navigation-parent {
+    display: none;
+  }
+  .header-inner {
+    width: 0;
+  }
+  .desktop-2 {
+    gap: 51px;
+    padding-left: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 725px) {
+  .primary-layout {
+    flex: 1;
+  }
+  .primary-layout-parent {
+    flex-wrap: wrap;
+  }
+  .navigation-links2 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .m,
+  .y-self-ramakrishna {
+    font-size: var(--font-size-4xl);
+  }
+  .introduction {
+    flex-wrap: wrap;
+  }
+  .i-won-express {
+    font-size: 19px;
+  }
+  .location-details {
+    gap: var(--gap-15xl);
+  }
+  .desktop-2 {
+    gap: 25px;
+  }
+  .span5,.sompetaandhrapradesh532284{
+    display: inline-block;
+  }
+}

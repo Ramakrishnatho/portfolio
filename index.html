@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ingrid Darling:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Chivo:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ephesis:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fanwood Text:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abyssinica SIL:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-1">
+      <div class="main-content">
+        <div class="content-panel">
+          <h1 class="r">R</h1>
+          <div class="profile">
+            <h2 class="amakrishna">amakrishna</h2>
+          </div>
+        </div>
+        <div class="greeting-panel">
+          <h1 class="hello">
+            <span class="He">He</span>
+            <span class="llo">llo</span><span class="S">,</span>
+            
+          </h1>
+          <div class="introduction-panel">
+            <div class="intro-content">
+              <div class="job-title">
+                <h1 class="im-ramakrishna-t-container">
+                  <span class="I">I</span>
+                  <span class="Am">’</span>
+                  <span class="The">m </span>
+                  <span class="ramakrishna-t">Ramakrishna T</span>
+                </h1>
+              </div>
+              <div class="jrjava-developer">
+                <span>Jr.Java Developer</span>
+                <span class="span1"> </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="button" id="buttonContainer">
+          <div class="button-child"></div>
+          <h2 class="download-cv">Download CV</h2>
+        </div>
+      </div>
+      <div class="profile-image"></div>
+      <header class="navigation">
+        <div class="navigation-tabs">
+          <div class="navigation-labels">
+            <div class="navigation-links">
+              <div class="home">Home</div>
+              <div class="contact-link">
+                <img
+                  class="contact-icon"
+                  alt=""
+                  src="./public/Ram1.png"
+                />
+
+                <div class="contact" id="contactText">
+                  <p class="contact1">Contact</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="navigation-labels1">
+            <div class="about" id="aboutText">
+              <p class="about1">About</p>
+            </div>
+          </div>
+          <div class="navigation-labels2">
+            <div class="education" id="educationText">
+              <p class="education1">Education</p>
+            </div>
+          </div>
+          <div class="projects" id="projectsText">Projects</div>
+          <div class="skills" id="skillsText">Skills</div>
+        </div>
+      </header>
+    </div>
+
+    <script>
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function () {
+          window.open(
+            "https://drive.google.com/file/d/1IBNPJFcC-9xXLbYTul6_x5yd_f6LA0An/view?usp=drivesdk"
+          );
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          // Please sync "Desktop - 6" to the project
+          
+        });
+      }
+      
+      var aboutText = document.getElementById("aboutText");
+      if (aboutText) {
+        aboutText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-2.html";
+        });
+      }
+      
+      var educationText = document.getElementById("educationText");
+      if (educationText) {
+        educationText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-3.html";
+        });
+      }
+      
+      var projectsText = document.getElementById("projectsText");
+      if (projectsText) {
+        projectsText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-6.html";
+        });
+      }
+      
+      var skillsText = document.getElementById("skillsText");
+      if (skillsText) {
+        skillsText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-4.html";
+        });
+      }
+      var ContactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-5.html";
+        });
+      }
+      </script>
+  </body>
+</html>

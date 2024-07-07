@@ -1,0 +1,966 @@
+.amakrishna3,
+.r3 {
+  position: absolute;
+  display: inline-block;
+}
+.r3 {
+  top: 0;
+  left: 0;
+  width: 45.4px;
+  height: 59.1px;
+}
+.amakrishna3 {
+  top: 11.6px;
+  left: 34.8px;
+  font-size: var(--font-size-19xl);
+  color: var(--color-chocolate);
+  min-width: 112px;
+}
+.logo,
+.t2 {
+  top: 0;
+  left: 0;
+}
+.logo {
+  position: absolute;
+  height: 100%;
+  bottom: 0;
+  width: 146.8px;
+}
+.t2 {
+  display: inline-block;
+  width: 45.4px;
+  height: 59.1px;
+}
+.logo1,
+.ota2,
+.t2 {
+  position: absolute;
+}
+.ota2 {
+  top: 11.6px;
+  left: 34.8px;
+  font-size: var(--font-size-19xl);
+  color: var(--color-chocolate);
+  display: inline-block;
+  min-width: 31px;
+}
+.logo1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 146.7px;
+  width: 65.8px;
+}
+.logo-parent {
+  position: absolute;
+  top: 148.8px;
+  left: 85.5px;
+  width: 212.5px;
+  height: 59.1px;
+  font-size: var(--font-size-31xl-6);
+  font-family: var(--font-ingrid-darling);
+}
+.home3 {
+  position: absolute;
+  top: 0;
+  right: 645.7px;
+  display: inline-block;
+  width: 117.1px;
+  height: 29.5px;
+  cursor: pointer;
+}
+.about7 {
+  margin: 0;
+}
+.about6 {
+  position: absolute;
+  top: 0;
+  right: 540.2px;
+  display: inline-block;
+  width: 117.1px;
+  height: 29.5px;
+  cursor: pointer;
+}
+.education7 {
+  margin: 0;
+}
+.education6,
+.projects3,
+.skills3 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 146.7px;
+  height: 29.5px;
+}
+.education6 {
+  right: 405.1px;
+  color: var(--color-chocolate);
+}
+.projects3,
+.skills3 {
+  right: 270px;
+  cursor: pointer;
+}
+.skills3 {
+  right: 135px;
+}
+.contact7 {
+  margin: 0;
+}
+.contact6,
+.navigation-menu {
+  position: absolute;
+  height: 29.5px;
+}
+.contact6 {
+  top: 0;
+  right: -0.1px;
+  display: inline-block;
+  width: 146.7px;
+  cursor: pointer;
+}
+.navigation-menu {
+  top: 163.5px;
+  right: 2.6px;
+  width: 762.8px;
+}
+.button-background {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-radius: 10.55px;
+  background-color: var(--color-chocolate);
+  width: 100%;
+  height: 100%;
+}
+.download-cv3 {
+  position: absolute;
+  bottom: 13.6px;
+  display: inline-block;
+  width: 224.7px;
+  height: 43.3px;
+  text-shadow: 1.1px 0 0#000, 0 1.1px 0#000, -1.1px 0 0#000, 0-1.1px 0#000;
+  mix-blend-mode: screen;
+}
+.button3 {
+  position: absolute;
+  bottom: 100.4px;
+  left: 85px;
+  width: 233.2px;
+  height: 69.6px;
+  cursor: pointer;
+  font-size: 33.8px;
+  font-family: var(--font-abyssinica-sil);
+}
+.institution-description {
+  position: absolute;
+  top: calc(50% - 105.5px);
+  left: calc(50% + 28.3px);
+}
+.wrapper-group-7-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: -1px;
+  top: 0;
+  transform: scale(1.049);
+}
+.wrapper-group-7 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btech-in-computer {
+  position: absolute;
+  right: 8.4px;
+  bottom: 169.8px;
+  display: inline-block;
+  width: 300.7px;
+  height: 16.9px;
+}
+.sep-2017-april-2022 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+}
+.sep-2017-april-container {
+  position: absolute;
+  right: 119.5px;
+  bottom: 121.5px;
+}
+.computer-science-engineering,
+.relevant-course-work {
+  position: absolute;
+  right: 123.2px;
+  bottom: 98.3px;
+  white-space: pre-wrap;
+}
+.computer-science-engineering {
+  right: 0.1px;
+  bottom: 5.3px;
+}
+.course-detail-items {
+  position: absolute;
+  right: 239.6px;
+  bottom: 0.1px;
+  color: var(--color-white);
+  display: inline-block;
+  min-width: 8px;
+}
+.education-duration {
+  position: absolute;
+  right: 48.8px;
+  bottom: 67.6px;
+  width: 247.6px;
+  height: 27.3px;
+}
+.core-javasql {
+  position: absolute;
+  right: 0.1px;
+  bottom: 5.3px;
+  white-space: pre-wrap;
+}
+.course-detail-items1 {
+  position: absolute;
+  right: 112.6px;
+  bottom: 0.1px;
+  color: var(--color-white);
+  display: inline-block;
+  min-width: 8px;
+}
+.education-duration1 {
+  position: absolute;
+  right: 175.8px;
+  bottom: 37px;
+  width: 120.6px;
+  height: 27.3px;
+}
+.figma {
+  position: absolute;
+  right: 0.1px;
+  bottom: 5.3px;
+  white-space: pre-wrap;
+}
+.course-detail-items2 {
+  position: absolute;
+  right: 52.6px;
+  bottom: 0;
+  color: var(--color-white);
+  display: inline-block;
+  min-width: 8px;
+}
+.education-duration2 {
+  position: absolute;
+  right: 235.8px;
+  bottom: 9.6px;
+  width: 60.6px;
+  height: 27.3px;
+}
+.wrapper-group-7-parent {
+  position: absolute;
+  height: calc(100% - 4.1px);
+  top: 0;
+  right: 792.1px;
+  bottom: 4.1px;
+  width: 311.2px;
+}
+.location-icon {
+  position: absolute;
+  right: -1.1px;
+  bottom: -4.2px;
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.location-icon-wrapper,
+.math-education-child {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.math-education-child {
+  bottom: 185.4px;
+  width: 311.2px;
+  height: 77.2px;
+  object-fit: cover;
+}
+.intermediate-in-computer {
+  position: absolute;
+  right: 9.5px;
+  bottom: 155.4px;
+  font-size: var(--font-size-mini-8);
+  display: inline-block;
+  width: 290.1px;
+  height: 25.7px;
+}
+.sep-2015-april-2017 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+}
+.relevant-course-work1,
+.sep-2015-april-container {
+  position: absolute;
+  right: 124.7px;
+  bottom: 122.4px;
+  display: inline-block;
+  width: 177px;
+  height: 22.3px;
+}
+.relevant-course-work1 {
+  right: 114.7px;
+  bottom: 97px;
+  white-space: pre-wrap;
+  width: 188px;
+  height: 22px;
+}
+.div,
+.mathematics {
+  position: absolute;
+  display: inline-block;
+  height: 22.3px;
+}
+.mathematics {
+  right: 0;
+  bottom: 5.4px;
+  white-space: pre-wrap;
+  width: 102px;
+}
+.div {
+  right: 104.6px;
+  bottom: 0.1px;
+  color: var(--color-white);
+  width: 8px;
+  min-width: 8px;
+}
+.math-education-details {
+  position: absolute;
+  right: 189.1px;
+  bottom: 65.5px;
+  width: 112.6px;
+  height: 27.7px;
+}
+.c,
+.div1 {
+  position: absolute;
+  display: inline-block;
+  height: 22.3px;
+}
+.c {
+  right: 0;
+  bottom: 5.4px;
+  white-space: pre-wrap;
+  width: 10px;
+}
+.div1 {
+  right: 12.6px;
+  bottom: 0;
+  color: var(--color-white);
+  width: 8px;
+  min-width: 8px;
+}
+.math-education-details1 {
+  position: absolute;
+  right: 281.1px;
+  bottom: 37.7px;
+  width: 20.6px;
+  height: 27.7px;
+}
+.basic-of-c,
+.empty-course-item {
+  position: absolute;
+  display: inline-block;
+  height: 22.3px;
+}
+.basic-of-c {
+  right: 0;
+  bottom: 5.4px;
+  white-space: pre-wrap;
+  width: 95px;
+}
+.empty-course-item {
+  right: 97.6px;
+  bottom: 0.1px;
+  color: var(--color-white);
+  width: 8px;
+  min-width: 8px;
+}
+.math-education-details2 {
+  position: absolute;
+  right: 198.2px;
+  bottom: 9.8px;
+  width: 105.6px;
+  height: 27.7px;
+}
+.government-junior-college,
+.sompetasrikakulamap {
+  position: absolute;
+  right: 0;
+  bottom: 22.6px;
+  display: inline-block;
+  width: 208px;
+  height: 22.3px;
+}
+.sompetasrikakulamap {
+  right: 15px;
+  bottom: 0.4px;
+  width: 193px;
+  height: 22px;
+}
+.junior-college-details {
+  position: absolute;
+  right: 5px;
+  bottom: 203.7px;
+  width: 208px;
+  height: 44.9px;
+  color: var(--color-black);
+}
+.math-education {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 389.1px;
+  bottom: 0;
+  width: 311.2px;
+}
+.experience-marker {
+  position: absolute;
+  right: -1px;
+  bottom: -4.2px;
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.experience-marker-wrapper {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.primary-education-child {
+  position: absolute;
+  right: 3.2px;
+  bottom: 182.5px;
+  width: 311.2px;
+  height: 76px;
+  object-fit: cover;
+}
+.primary-school {
+  position: absolute;
+  right: 12.7px;
+  bottom: 154.1px;
+  font-size: var(--font-size-mini-8);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 290.1px;
+  height: 20px;
+}
+.sep-2010-april-2015 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+}
+.sep-2010-april-container {
+  position: absolute;
+  right: 137.5px;
+  bottom: 120.4px;
+}
+.mathematics1,
+.relevant-course-work2 {
+  position: absolute;
+  right: 110.6px;
+  bottom: 95.1px;
+  white-space: pre-wrap;
+}
+.mathematics1 {
+  right: 0;
+  bottom: 5.3px;
+}
+.experience-detail-items {
+  position: absolute;
+  right: 104.6px;
+  bottom: 0;
+  color: var(--color-white);
+  display: inline-block;
+  min-width: 8px;
+}
+.primary-education-details {
+  position: absolute;
+  right: 190.2px;
+  bottom: 64.5px;
+  width: 112.6px;
+  height: 27.3px;
+}
+.english,
+.experience-detail-items1 {
+  position: absolute;
+  right: 0;
+  bottom: 5.3px;
+  display: inline-block;
+  min-width: 59px;
+}
+.experience-detail-items1 {
+  right: 61.6px;
+  bottom: 0.1px;
+  color: var(--color-white);
+  min-width: 8px;
+}
+.primary-education-details1 {
+  position: absolute;
+  right: 233.2px;
+  bottom: 37px;
+  width: 69.6px;
+  height: 27.3px;
+}
+.remember-standard-subject {
+  position: absolute;
+  right: 0;
+  bottom: 5.3px;
+}
+.experience-detail-items2 {
+  position: absolute;
+  right: 224.6px;
+  bottom: 0.1px;
+  color: var(--color-white);
+  display: inline-block;
+  min-width: 8px;
+}
+.primary-education-details2 {
+  position: absolute;
+  right: 70.2px;
+  bottom: 6.4px;
+  width: 232.6px;
+  height: 27.3px;
+}
+.government-boys-high {
+  position: absolute;
+  right: 0;
+  bottom: 22.1px;
+}
+.school-details,
+.sompetasrikakulamap1 {
+  position: absolute;
+  right: 34px;
+  bottom: 0;
+  font-size: 15.8px;
+}
+.school-details {
+  right: 11.8px;
+  bottom: 199.5px;
+  width: 214px;
+  height: 42.1px;
+  font-size: 15.2px;
+  color: var(--color-black);
+}
+.primary-education {
+  position: absolute;
+  height: calc(100% - 4.1px);
+  top: 0;
+  right: 0;
+  bottom: 4.1px;
+  width: 315.5px;
+}
+.group-parent {
+  position: absolute;
+  right: 83.4px;
+  bottom: 325.1px;
+  width: 1103.3px;
+  height: 262.6px;
+  text-align: left;
+  font-size: var(--font-size-base-9);
+  color: var(--color-gainsboro);
+  font-family: var(--font-inika);
+}
+.core-javasql1 {
+  position: absolute;
+  left: 70.1px;
+  bottom: 5.3px;
+  white-space: nowrap;
+}
+.empty-certificate {
+  position: absolute;
+  right: 50.6px;
+  bottom: 0;
+  color: var(--color-white);
+  display: inline-block;
+  min-width: 8px;
+}
+.technical-skills {
+  position: absolute;
+  right: 251.4px;
+  bottom: -0.1px;
+  width: 120.6px;
+  height: 27.3px;
+}
+.online-certificates {
+  position: absolute;
+  right: 178.4px;
+  bottom: 0;
+  white-space: pre-wrap;
+}
+.group-child {
+  position: absolute;
+  right: 0;
+  bottom: 10.3px;
+  width: 174.1px;
+  height: 1.1px;
+  object-fit: contain;
+}
+.online-certificates-parent {
+  position: absolute;
+  left: 50px;
+  bottom: 159.9px;
+  width: 371.4px;
+  height: 22px;
+  color: var(--color-white);
+}
+.large-1-icon {
+  position: absolute;
+  left: 60px;
+  bottom: 50px;
+  width: 372px;
+  height: 84.2px;
+  object-fit: cover;
+}
+.skills4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 674px;
+  bottom: 0;
+  width: 372.4px;
+}
+.interests {
+  position: absolute;
+  right: 453px;
+  bottom: 135px;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 101px;
+}
+.group-item {
+  position: absolute;
+  right: 271.9px;
+  bottom: 143.9px;
+  width: 174.1px;
+  height: 1.1px;
+  object-fit: contain;
+}
+.background-shape {
+  position: absolute;
+  right: 0.4px;
+  bottom: -1.4px;
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: 0.7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.background-shape-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.mingcuteearth-2-line-icon {
+  position: absolute;
+  right: 135px;
+  bottom: 2px;
+  width: 32px;
+  height: 32px;
+}
+.software-development {
+  position: absolute;
+  right: 7px;
+  bottom: 10px;
+  display: inline-block;
+  min-width: 128px;
+}
+.interest-layout {
+  position: absolute;
+  right: 386px;
+  bottom: 69px;
+  width: 168px;
+  height: 37px;
+}
+.background-shape1 {
+  position: absolute;
+  right: 0.4px;
+  bottom: -1.4px;
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: 0.7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.background-shape-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.data-structure {
+  position: absolute;
+  right: 35px;
+  bottom: 10px;
+  display: inline-block;
+  min-width: 82px;
+}
+.interest-layout1 {
+  position: absolute;
+  right: 389px;
+  bottom: 0;
+  width: 168px;
+  height: 37px;
+}
+.group-inner,
+.interest-layout-inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.group-inner {
+  right: 0.4px;
+  bottom: -1.4px;
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: 0.7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.interest-layout-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 0;
+  bottom: 0;
+}
+.algorithms {
+  position: absolute;
+  right: 46px;
+  bottom: 10px;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 70px;
+}
+.interest-layout2 {
+  position: absolute;
+  right: 190px;
+  bottom: 0;
+  width: 168px;
+  height: 37px;
+}
+.background-shape2 {
+  position: absolute;
+  right: 0.4px;
+  bottom: -1.4px;
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: 0.7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.background-shape-frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.web-development {
+  position: absolute;
+  right: 31px;
+  bottom: 10px;
+  display: inline-block;
+  min-width: 104px;
+}
+.interest-layout3 {
+  position: absolute;
+  right: 191px;
+  bottom: 68px;
+  width: 168px;
+  height: 37px;
+}
+.background-shape3,
+.group-div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.background-shape3 {
+  right: 0.4px;
+  bottom: -1.4px;
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: 0.7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.group-div {
+  right: 0;
+  bottom: 0;
+}
+.software-development1 {
+  position: absolute;
+  right: 7px;
+  bottom: 10px;
+  display: inline-block;
+  min-width: 128px;
+}
+.interest-layout4 {
+  position: absolute;
+  right: 0;
+  bottom: 68px;
+  width: 168px;
+  height: 37px;
+}
+.development-icon {
+  position: absolute;
+  right: 140.5px;
+  bottom: 74px;
+  width: 24px;
+  height: 24px;
+}
+.interest-categories {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 106px;
+  font-size: var(--font-size-smi-1);
+}
+.group-icon {
+  position: absolute;
+  right: 330.2px;
+  bottom: 78px;
+  width: 21.2px;
+  height: 22px;
+}
+.data-icon,
+.vector-icon1 {
+  position: absolute;
+  right: 524.8px;
+  bottom: 8px;
+  width: 22.6px;
+  height: 21px;
+}
+.vector-icon1 {
+  right: 326.4px;
+  bottom: 9.4px;
+  width: 24px;
+  height: 17.6px;
+}
+.interests-parent {
+  position: absolute;
+  right: 0;
+  bottom: 24.2px;
+  width: 557px;
+  height: 157px;
+  color: var(--color-white);
+}
+.desktop-3,
+.skills-and-interests {
+  text-align: left;
+  font-family: var(--font-inika);
+}
+.skills-and-interests {
+  position: absolute;
+  right: 99.2px;
+  bottom: 41.8px;
+  width: 1046.4px;
+  height: 181.9px;
+  font-size: var(--font-size-base-9);
+  color: var(--color-gainsboro);
+}
+.desktop-3 {
+  width: 100%;
+  height: 939px;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-2xl-1);
+  color: var(--color-white);
+}
+@media screen and (max-width: 767px) {
+  .r3 {
+    font-size: var(--font-size-21xl);
+  }
+  .amakrishna3 {
+    font-size: var(--font-size-11xl);
+  }
+  .t2 {
+    font-size: var(--font-size-21xl);
+  }
+  .ota2 {
+    font-size: var(--font-size-11xl);
+  }
+  .download-cv3 {
+    font-size: 27px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .r3 {
+    font-size: var(--font-size-11xl);
+  }
+  .amakrishna3 {
+    font-size: var(--font-size-4xl);
+  }
+  .t2 {
+    font-size: var(--font-size-11xl);
+  }
+  .ota2 {
+    font-size: var(--font-size-4xl);
+  }
+  .about6,
+  .contact6,
+  .education6,
+  .home3,
+  .projects3,
+  .skills3 {
+    font-size: var(--font-size-mid);
+  }
+  .download-cv3 {
+    font-size: var(--font-size-xl);
+  }
+  .institution-description {
+    font-size: var(--font-size-mid);
+  }
+}

@@ -1,0 +1,545 @@
+.amakrishna2,
+.r2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.r2 {
+  height: 56px;
+  width: 43px;
+  flex-shrink: 0;
+}
+.amakrishna2 {
+  min-width: 106px;
+  z-index: 1;
+}
+.content,
+.r-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content {
+  flex-direction: column;
+  padding: var(--padding-2xs) 0 0;
+  margin-left: -10px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-chocolate);
+}
+.r-parent {
+  flex-direction: row;
+}
+.ota1,
+.t1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.t1 {
+  width: 43px;
+  height: 56px;
+  flex-shrink: 0;
+}
+.ota1 {
+  min-width: 29px;
+  z-index: 1;
+}
+.content1,
+.header,
+.t-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content1 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-14xl);
+  margin-top: -45px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-chocolate);
+}
+.header,
+.t-parent {
+  flex-direction: column;
+}
+.header {
+  flex-direction: row;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-ingrid-darling);
+}
+.home2 {
+  width: 100px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.about5 {
+  margin: 0;
+}
+.about4 {
+  width: 100px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.education5 {
+  margin: 0;
+}
+.education4 {
+  width: 128px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.projects2 {
+  flex: 1;
+  position: relative;
+  color: #ef9a1b;
+  white-space: nowrap;
+}
+.navigation-links1,
+.skills2 {
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.navigation-links1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.skills2 {
+  width: 139px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  cursor: pointer;
+  margin-left: -11px;
+}
+.contact5 {
+  margin: 0;
+}
+.contact4 {
+  width: 139px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  cursor: pointer;
+  margin-left: -11px;
+}
+.body {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.body,
+.secondary-project-details,
+.submenu {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.secondary-project-details {
+  width: 723px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.submenu {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.major-project-on {
+  position: absolute;
+  top: 16px;
+  left: 166.1px;
+  display: inline-block;
+  width: 400px;
+  height: 117px;
+  z-index: 1;
+}
+.shape {
+  position: absolute;
+  top: 111px;
+  left: 26.1px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 38px;
+  height: 35px;
+}
+.project-image-one,
+.project-image-two {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+}
+.project-image-one {
+  top: 0;
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.project-image-two {
+  z-index: 3;
+  object-fit: contain;
+  top: 4px;
+  transform: scale(1.108);
+}
+.wrapper-project-image-two {
+  position: absolute;
+  height: calc(100% - 16.6px);
+  top: 8.3px;
+  bottom: 8.3px;
+  left: 8.1px;
+  max-height: 100%;
+  width: 129.9px;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.decorations,
+.project-details {
+  position: absolute;
+  top: 0;
+  height: 100%;
+}
+.decorations {
+  bottom: 0;
+  left: 0;
+  width: 553.6px;
+}
+.project-details {
+  left: 1.9px;
+  width: 100%;
+}
+.project-details-wrapper {
+  height: 155px;
+  width: 568px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.experience {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 520px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30.2px;
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}
+.button-inner {
+  height: 66px;
+  width: 219px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-chocolate);
+  display: none;
+}
+.download-cv2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  mix-blend-mode: screen;
+  z-index: 1;
+}
+.button2 {
+  width: 221px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-chocolate);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 var(--padding-smi) var(--padding-5xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.secondary-project-one {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -4.2px;
+  bottom: -4.2px;
+  left: 0;
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.secondary-project-two {
+  height: 132.9px;
+  width: 132px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.whats-app-clone {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.navigation2,
+.project-details1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navigation2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 24.2px 0 0;
+  min-width: 260px;
+  flex-shrink: 0;
+}
+.project-details1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 5px var(--padding-10xs-7) 9.1px 6.9px;
+  position: relative;
+  gap: 10.1px;
+}
+.icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: -4.2px;
+  bottom: -4.2px;
+  left: 0;
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.element-icon {
+  width: 132px;
+  height: 132.9px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.action {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 132px;
+}
+.e-commerce,
+.website-by-using {
+  margin: 0;
+}
+.e-commerce-website-container {
+  height: 155px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 231px;
+  max-width: 100%;
+  z-index: 1;
+}
+.project-item1,
+.secondary-projects {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.secondary-projects {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 0 7px var(--padding-3xs) var(--padding-3xs);
+  position: relative;
+  gap: 47px;
+}
+.project-item1 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs-7) 0 0;
+}
+.project-item,
+.projects-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.project-item {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 45px;
+}
+.projects-list {
+  width: 554.7px;
+  align-items: flex-start;
+  padding: 0 0 52px;
+  box-sizing: border-box;
+  min-height: 409px;
+  font-size: var(--font-size-19xl-5);
+  font-family: var(--font-inika);
+}
+.actions,
+.desktop-4 {
+  display: flex;
+  text-align: left;
+  color: var(--color-white);
+}
+.actions {
+  width: 1172.7px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-abyssinica-sil);
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-122xl) 66px 61px var(--padding-62xl);
+  box-sizing: border-box;
+  gap: var(--gap-15xl);
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inika);
+}
+@media screen and (max-width: 925px) {
+  .r2 {
+    font-size: var(--font-size-19xl);
+  }
+  .amakrishna2 {
+    font-size: var(--font-size-10xl);
+  }
+  .t1 {
+    font-size: var(--font-size-19xl);
+  }
+  .ota1 {
+    font-size: var(--font-size-10xl);
+  }
+  .body {
+    display: none;
+  }
+  .secondary-project-details {
+    width: 0;
+  }
+  .major-project-on {
+    font-size: var(--font-size-5xl);
+  }
+  .experience {
+    padding-left: 173px;
+    box-sizing: border-box;
+  }
+  .e-commerce-website-container,
+  .whats-app-clone {
+    font-size: var(--font-size-12xl);
+  }
+  .actions {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .desktop-4 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .project-details1 {
+    flex-wrap: wrap;
+  }
+  .element-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .action {
+    flex: 1;
+  }
+  .secondary-projects {
+    flex-wrap: wrap;
+    gap: 23px;
+  }
+  .project-item {
+    gap: 22px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .r2 {
+    font-size: var(--font-size-10xl);
+  }
+  .amakrishna2 {
+    font-size: var(--font-size-3xl);
+  }
+  .t1 {
+    font-size: var(--font-size-10xl);
+  }
+  .ota1 {
+    font-size: var(--font-size-3xl);
+  }
+  .major-project-on {
+    font-size: var(--font-size-lg);
+  }
+  .experience {
+    padding-left: 86px;
+    box-sizing: border-box;
+  }
+  .e-commerce-website-container,
+  .whats-app-clone {
+    font-size: var(--font-size-4xl);
+  }
+  .projects-list {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .desktop-4 {
+    gap: var(--gap-mid);
+  }
+}
