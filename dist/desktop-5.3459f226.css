@@ -1,0 +1,875 @@
+.amakrishna5, .r5 {
+  font-size: inherit;
+  white-space: nowrap;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 400;
+  display: inline-block;
+  position: relative;
+}
+
+.r5 {
+  flex-shrink: 0;
+  width: 43px;
+  height: 56px;
+}
+
+.amakrishna5 {
+  z-index: 1;
+  min-width: 106px;
+}
+
+.social-label, .social-links {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.social-label {
+  color: #ef741b;
+  flex-direction: column;
+  margin-left: -10px;
+  padding: 11px 0 0;
+  font-size: 36px;
+}
+
+.social-links {
+  flex-direction: row;
+}
+
+.ota4, .t4 {
+  font-size: inherit;
+  white-space: nowrap;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 400;
+  display: inline-block;
+  position: relative;
+}
+
+.t4 {
+  flex-shrink: 0;
+  width: 43px;
+  height: 56px;
+}
+
+.ota4 {
+  z-index: 1;
+  min-width: 29px;
+}
+
+.navigation-items, .ota-frame, .social-links1 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.ota-frame {
+  color: #ef741b;
+  flex-direction: row;
+  margin-top: -45px;
+  padding: 0 0 0 33px;
+  font-size: 36px;
+}
+
+.navigation-items, .social-links1 {
+  flex-direction: column;
+}
+
+.navigation-items {
+  flex-direction: row;
+}
+
+.home5 {
+  cursor: pointer;
+  flex-shrink: 0;
+  width: 100px;
+  display: inline-block;
+  position: relative;
+}
+
+.about11 {
+  margin: 0;
+}
+
+.about10 {
+  cursor: pointer;
+  flex-shrink: 0;
+  width: 100px;
+  display: inline-block;
+  position: relative;
+}
+
+.education11 {
+  margin: 0;
+}
+
+.education10, .projects5 {
+  cursor: pointer;
+  position: relative;
+}
+
+.education10 {
+  flex-shrink: 0;
+  width: 128px;
+  display: inline-block;
+}
+
+.projects5 {
+  white-space: nowrap;
+  flex: 1;
+}
+
+.home-about, .skills6 {
+  debug_commit: 1de1738;
+  flex-shrink: 0;
+}
+
+.home-about {
+  text-align: left;
+  color: #fff;
+  flex-direction: row;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  margin: 0;
+  font-family: Inika;
+  font-size: 20px;
+  display: flex;
+}
+
+.skills6 {
+  white-space: nowrap;
+  cursor: pointer;
+  width: 139px;
+  margin-left: -11px;
+  display: inline-block;
+  position: relative;
+}
+
+.contact11 {
+  margin: 0;
+}
+
+.contact10 {
+  color: #ef741b;
+  debug_commit: 1de1738;
+  flex-shrink: 0;
+  width: 139px;
+  margin-left: -11px;
+  display: inline-block;
+  position: relative;
+}
+
+.skills-contact {
+  text-align: left;
+  color: #fff;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  margin: 0;
+  font-family: Inika;
+  font-size: 20px;
+}
+
+.content2, .navigation3, .skills-contact {
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.content2 {
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 723px;
+  margin: 0;
+  padding: 14px 0 0;
+}
+
+.navigation3 {
+  text-align: left;
+  color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: stretch;
+  gap: 20px;
+  font-family: Ingrid Darling;
+  font-size: 48px;
+}
+
+.address-icon {
+  filter: blur(4.22px);
+  box-sizing: border-box;
+  background-color: #010101cc;
+  border: 2.1px solid #fff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: -4.2px;
+  left: 1.1px;
+  margin: 0 !important;
+}
+
+.my-address1 {
+  color: #70ff00;
+  text-align: left;
+  z-index: 2;
+  width: 94px;
+  min-width: 94px;
+  height: 22px;
+  font-family: Inika;
+  font-size: 16.9px;
+  display: inline-block;
+  position: absolute;
+  top: 17px;
+  left: 77px;
+}
+
+.address-details-child {
+  z-index: 2;
+  width: 20px;
+  height: 25px;
+  position: absolute;
+  top: 17px;
+  left: 33px;
+}
+
+.address-details {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.my-address {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  align-self: stretch;
+  height: 42px;
+  padding: 0;
+  position: relative;
+}
+
+.sompetam, .srisyna-street {
+  z-index: 2;
+  min-width: 88px;
+  display: inline-block;
+  position: relative;
+}
+
+.sompetam {
+  min-width: 68px;
+}
+
+.city, .street, .street-address {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.city {
+  flex-direction: column;
+  padding: 1px 0 0;
+  font-size: 12px;
+}
+
+.street, .street-address {
+  flex-direction: row;
+}
+
+.street-address {
+  align-self: stretch;
+  padding: 0 78px 0 77px;
+}
+
+.srikakulamandhrapredesh {
+  margin: 0;
+}
+
+.span6 {
+  font-family: Imprima;
+}
+
+.span7 {
+  font-family: Inika;
+}
+
+.pin-532284 {
+  margin: 0;
+}
+
+.srikakulamandhrapredesh-pin-container {
+  z-index: 2;
+  position: relative;
+}
+
+.state-pin {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 67px;
+  display: flex;
+}
+
+.address-icon-parent, .address-inner {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.address-icon-parent {
+  flex-direction: column;
+  flex: 1;
+  gap: 1.5px;
+  padding: 0 0 19px;
+  position: relative;
+  overflow: hidden;
+}
+
+.address-inner {
+  cursor: pointer;
+  flex-direction: row;
+  width: 311.2px;
+}
+
+.frame-child2 {
+  filter: blur(4.22px);
+  box-sizing: border-box;
+  background-color: #010101cc;
+  border: 2.1px solid #fff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: -4.2px;
+  left: 1.1px;
+  margin: 0 !important;
+}
+
+.social-media1 {
+  z-index: 2;
+  width: 134px;
+  height: 24px;
+  display: inline-block;
+  position: absolute;
+  top: 16px;
+  left: 68px;
+}
+
+.social-media {
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+}
+
+.solarshare-bold-duotone-icon {
+  z-index: 2;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  overflow: hidden;
+  margin: 0 !important;
+}
+
+.icon1 {
+  cursor: pointer;
+  z-index: 2;
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+
+.icon-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 5px 4px 0 0;
+  display: flex;
+}
+
+.icon2 {
+  cursor: pointer;
+  z-index: 2;
+  width: 28.6px;
+  height: 20.8px;
+  position: relative;
+}
+
+.icon-container1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 5px 2px 0 0;
+  display: flex;
+}
+
+.mdiyoutube-icon, .skill-iconslinkedin {
+  cursor: pointer;
+  z-index: 2;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+}
+
+.skill-iconslinkedin {
+  width: 22px;
+  height: 22px;
+}
+
+.icon-container2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 4px 0 0;
+  display: flex;
+}
+
+.rectangle-group, .social-container, .social-links2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.social-container {
+  gap: 18px;
+}
+
+.rectangle-group, .social-links2 {
+  padding: 0 68px;
+}
+
+.rectangle-group {
+  box-sizing: border-box;
+  color: #70ff00;
+  flex-direction: column;
+  flex-shrink: 0;
+  gap: 18px;
+  width: 311.2px;
+  padding: 0 0 25px;
+  font-size: 17.8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.address, .footer, .header2 {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.address {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.footer, .header2 {
+  box-sizing: border-box;
+  justify-content: flex-end;
+  width: 936.8px;
+  padding: 0 57.8px 0 58px;
+}
+
+.header2 {
+  text-align: left;
+  color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 133px;
+  width: 1542px;
+  padding: 0 0 0 20px;
+  font-family: Inika;
+  font-size: 13px;
+}
+
+.email-icon {
+  filter: blur(4.22px);
+  box-sizing: border-box;
+  background-color: #010101cc;
+  border: 2.1px solid #fff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: -4.2px;
+  left: 1.1px;
+  margin: 0 !important;
+}
+
+.email1 {
+  margin: 0;
+}
+
+.email {
+  z-index: 2;
+  width: 94px;
+  height: 22px;
+  display: inline-block;
+  position: absolute;
+  top: 17px;
+  left: 81px;
+}
+
+.email-label {
+  color: #70ff00;
+  align-self: stretch;
+  height: 39px;
+  font-size: 16.9px;
+  position: relative;
+}
+
+.ramakrishnathota204gmailcom {
+  cursor: pointer;
+  z-index: 2;
+  position: relative;
+}
+
+.email-address {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 27px;
+  display: flex;
+}
+
+.ramakrishnathota774gmailcom {
+  cursor: pointer;
+  z-index: 2;
+  position: relative;
+}
+
+.email-address1 {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 27px;
+  display: flex;
+}
+
+.vector-icon2 {
+  z-index: 2;
+  width: 28.6px;
+  height: 20.8px;
+  position: absolute;
+  top: 20px;
+  left: 32px;
+  margin: 0 !important;
+}
+
+.email-icon-parent {
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 3px;
+  width: 311.2px;
+  min-width: 311.2px;
+  padding: 0 0 36px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.material-symbolscall {
+  width: 24px;
+  height: 24px;
+  display: none;
+  position: absolute;
+  bottom: 91px;
+  right: 0;
+  overflow: hidden;
+}
+
+.contact-icon, .placeholder {
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.placeholder {
+  z-index: 1;
+  background-color: #d9d9d9;
+  border: 62.2px solid #000;
+  width: 311.2px;
+  height: 36px;
+}
+
+.contact-icon {
+  filter: blur(4.22px);
+  background-color: #010101cc;
+  border: 2.1px solid #fff;
+  width: 100%;
+  height: 100%;
+  bottom: -4.2px;
+  right: -4.2px;
+  margin: 0 !important;
+}
+
+.vector-icon3 {
+  z-index: 2;
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+
+.vector-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 3px 0 0;
+  display: flex;
+}
+
+.contact13, .div2 {
+  z-index: 2;
+  position: relative;
+}
+
+.contact13 {
+  align-self: stretch;
+}
+
+.div2 {
+  white-space: nowrap;
+  min-width: 91px;
+  display: inline-block;
+}
+
+.contact-details, .contact-label, .placeholder1 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.placeholder1 {
+  color: #fff;
+  flex-direction: row;
+  padding: 0 16px;
+  font-family: Imprima;
+  font-size: 13px;
+}
+
+.contact-details, .contact-label {
+  flex-direction: column;
+  gap: 14px;
+  width: 134px;
+}
+
+.contact-details {
+  box-sizing: border-box;
+  flex-direction: row;
+  gap: 18px;
+  width: 307px;
+  padding: 12px 33.9px 50px;
+  position: absolute;
+  top: 0;
+  left: 1.1px;
+}
+
+.material-symbolscall-parent {
+  color: #70ff00;
+  flex-shrink: 0;
+  width: 335.2px;
+  min-width: 335.2px;
+  max-width: 100%;
+  height: 115px;
+  font-size: 17.8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.email-container, .email-details {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.email-details {
+  justify-content: space-between;
+  gap: 20px;
+  width: 845.2px;
+}
+
+.email-container {
+  justify-content: flex-end;
+  align-self: stretch;
+}
+
+.button-child2 {
+  background-color: #ef741b;
+  border-radius: 10px;
+  width: 219px;
+  height: 66px;
+  display: none;
+  position: relative;
+}
+
+.download-cv5 {
+  font-size: inherit;
+  text-shadow: 1px 0 #000, 0 1px #000, -1px 0 #000, 0 -1px #000;
+  mix-blend-mode: screen;
+  z-index: 1;
+  flex: 1;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 400;
+  position: relative;
+}
+
+.button5 {
+  box-sizing: border-box;
+  white-space: nowrap;
+  cursor: pointer;
+  background-color: #ef741b;
+  border-radius: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 221px;
+  padding: 12px 0 13px 8px;
+  font-family: Abyssinica SIL;
+  font-size: 32px;
+  display: flex;
+}
+
+.contact12, .email-container-parent {
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.email-container-parent {
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  gap: 61px;
+}
+
+.contact12 {
+  box-sizing: border-box;
+  text-align: left;
+  color: #fff;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 1471.8px;
+  padding: 0 36.8px 0 37px;
+  font-family: Inika;
+  font-size: 13px;
+}
+
+.desktop-5-child {
+  background-color: #d9d9d9;
+  border-radius: 50%;
+  width: 38px;
+  height: 35px;
+  display: none;
+  position: relative;
+}
+
+.desktop-5 {
+  box-sizing: border-box;
+  letter-spacing: normal;
+  background-color: #000;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 160px;
+  width: 100%;
+  padding: 141px 2px 43px;
+  line-height: normal;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 1200px) {
+  .header2 {
+    gap: 66px;
+  }
+
+  .desktop-5 {
+    gap: 80px;
+  }
+}
+
+@media screen and (width <= 1050px) {
+  .content2 {
+    display: none;
+  }
+
+  .footer {
+    box-sizing: border-box;
+    padding-left: 29px;
+    padding-right: 29px;
+  }
+}
+
+@media screen and (width <= 750px) {
+  .address {
+    flex-wrap: wrap;
+  }
+
+  .header2 {
+    gap: 33px;
+  }
+
+  .email-icon-parent, .material-symbolscall-parent {
+    flex: 1;
+  }
+
+  .email-details {
+    flex-wrap: wrap;
+  }
+
+  .email-container-parent {
+    gap: 30px;
+  }
+
+  .desktop-5 {
+    gap: 40px;
+  }
+}
+
+@media screen and (width <= 450px) {
+  .social-links2, .state-pin, .street-address {
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .header2 {
+    gap: 17px;
+  }
+
+  .material-symbolscall-parent {
+    min-width: 100%;
+  }
+
+  .email-container-parent {
+    gap: 15px;
+  }
+
+  .desktop-5 {
+    gap: 20px;
+  }
+}
+/*# sourceMappingURL=desktop-5.3459f226.css.map */

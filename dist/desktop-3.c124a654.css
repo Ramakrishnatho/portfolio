@@ -1,0 +1,1079 @@
+.amakrishna3, .r3 {
+  display: inline-block;
+  position: absolute;
+}
+
+.r3 {
+  width: 45.4px;
+  height: 59.1px;
+  top: 0;
+  left: 0;
+}
+
+.amakrishna3 {
+  font-size: var(--font-size-19xl);
+  color: var(--color-chocolate);
+  min-width: 112px;
+  top: 11.6px;
+  left: 34.8px;
+}
+
+.logo, .t2 {
+  top: 0;
+  left: 0;
+}
+
+.logo {
+  width: 146.8px;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.t2 {
+  width: 45.4px;
+  height: 59.1px;
+  display: inline-block;
+}
+
+.logo1, .ota2, .t2 {
+  position: absolute;
+}
+
+.ota2 {
+  font-size: var(--font-size-19xl);
+  color: var(--color-chocolate);
+  min-width: 31px;
+  display: inline-block;
+  top: 11.6px;
+  left: 34.8px;
+}
+
+.logo1 {
+  width: 65.8px;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 146.7px;
+}
+
+.logo-parent {
+  font-size: var(--font-size-31xl-6);
+  font-family: var(--font-ingrid-darling);
+  width: 212.5px;
+  height: 59.1px;
+  position: absolute;
+  top: 148.8px;
+  left: 85.5px;
+}
+
+.home3 {
+  cursor: pointer;
+  width: 117.1px;
+  height: 29.5px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 645.7px;
+}
+
+.about7 {
+  margin: 0;
+}
+
+.about6 {
+  cursor: pointer;
+  width: 117.1px;
+  height: 29.5px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 540.2px;
+}
+
+.education7 {
+  margin: 0;
+}
+
+.education6, .projects3, .skills3 {
+  width: 146.7px;
+  height: 29.5px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.education6 {
+  color: var(--color-chocolate);
+  right: 405.1px;
+}
+
+.projects3, .skills3 {
+  cursor: pointer;
+  right: 270px;
+}
+
+.skills3 {
+  right: 135px;
+}
+
+.contact7 {
+  margin: 0;
+}
+
+.contact6, .navigation-menu {
+  height: 29.5px;
+  position: absolute;
+}
+
+.contact6 {
+  cursor: pointer;
+  width: 146.7px;
+  display: inline-block;
+  top: 0;
+  right: -.1px;
+}
+
+.navigation-menu {
+  width: 762.8px;
+  top: 163.5px;
+  right: 2.6px;
+}
+
+.button-background {
+  background-color: var(--color-chocolate);
+  border-radius: 10.55px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.download-cv3 {
+  text-shadow: 1.1px 0 #000, 0 1.1px #000, -1.1px 0 #000, 0 -1.1px #000;
+  mix-blend-mode: screen;
+  width: 224.7px;
+  height: 43.3px;
+  display: inline-block;
+  position: absolute;
+  bottom: 13.6px;
+}
+
+.button3 {
+  cursor: pointer;
+  font-size: 33.8px;
+  font-family: var(--font-abyssinica-sil);
+  width: 233.2px;
+  height: 69.6px;
+  position: absolute;
+  bottom: 100.4px;
+  left: 85px;
+}
+
+.institution-description {
+  position: absolute;
+  top: calc(50% - 105.5px);
+  left: calc(50% + 28.3px);
+}
+
+.wrapper-group-7-child {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -1px;
+  transform: scale(1.049);
+}
+
+.wrapper-group-7 {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.btech-in-computer {
+  width: 300.7px;
+  height: 16.9px;
+  display: inline-block;
+  position: absolute;
+  bottom: 169.8px;
+  right: 8.4px;
+}
+
+.sep-2017-april-2022 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+  margin: 0;
+}
+
+.sep-2017-april-container {
+  position: absolute;
+  bottom: 121.5px;
+  right: 119.5px;
+}
+
+.computer-science-engineering, .relevant-course-work {
+  white-space: pre-wrap;
+  position: absolute;
+  bottom: 98.3px;
+  right: 123.2px;
+}
+
+.computer-science-engineering {
+  bottom: 5.3px;
+  right: .1px;
+}
+
+.course-detail-items {
+  color: var(--color-white);
+  min-width: 8px;
+  display: inline-block;
+  position: absolute;
+  bottom: .1px;
+  right: 239.6px;
+}
+
+.education-duration {
+  width: 247.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: 67.6px;
+  right: 48.8px;
+}
+
+.core-javasql {
+  white-space: pre-wrap;
+  position: absolute;
+  bottom: 5.3px;
+  right: .1px;
+}
+
+.course-detail-items1 {
+  color: var(--color-white);
+  min-width: 8px;
+  display: inline-block;
+  position: absolute;
+  bottom: .1px;
+  right: 112.6px;
+}
+
+.education-duration1 {
+  width: 120.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: 37px;
+  right: 175.8px;
+}
+
+.figma {
+  white-space: pre-wrap;
+  position: absolute;
+  bottom: 5.3px;
+  right: .1px;
+}
+
+.course-detail-items2 {
+  color: var(--color-white);
+  min-width: 8px;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 52.6px;
+}
+
+.education-duration2 {
+  width: 60.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: 9.6px;
+  right: 235.8px;
+}
+
+.wrapper-group-7-parent {
+  width: 311.2px;
+  height: calc(100% - 4.1px);
+  position: absolute;
+  top: 0;
+  bottom: 4.1px;
+  right: 792.1px;
+}
+
+.location-icon {
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: -4.2px;
+  right: -1.1px;
+}
+
+.location-icon-wrapper, .math-education-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.math-education-child {
+  object-fit: cover;
+  width: 311.2px;
+  height: 77.2px;
+  bottom: 185.4px;
+}
+
+.intermediate-in-computer {
+  font-size: var(--font-size-mini-8);
+  width: 290.1px;
+  height: 25.7px;
+  display: inline-block;
+  position: absolute;
+  bottom: 155.4px;
+  right: 9.5px;
+}
+
+.sep-2015-april-2017 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+  margin: 0;
+}
+
+.relevant-course-work1, .sep-2015-april-container {
+  width: 177px;
+  height: 22.3px;
+  display: inline-block;
+  position: absolute;
+  bottom: 122.4px;
+  right: 124.7px;
+}
+
+.relevant-course-work1 {
+  white-space: pre-wrap;
+  width: 188px;
+  height: 22px;
+  bottom: 97px;
+  right: 114.7px;
+}
+
+.div, .mathematics {
+  height: 22.3px;
+  display: inline-block;
+  position: absolute;
+}
+
+.mathematics {
+  white-space: pre-wrap;
+  width: 102px;
+  bottom: 5.4px;
+  right: 0;
+}
+
+.div {
+  color: var(--color-white);
+  width: 8px;
+  min-width: 8px;
+  bottom: .1px;
+  right: 104.6px;
+}
+
+.math-education-details {
+  width: 112.6px;
+  height: 27.7px;
+  position: absolute;
+  bottom: 65.5px;
+  right: 189.1px;
+}
+
+.c, .div1 {
+  height: 22.3px;
+  display: inline-block;
+  position: absolute;
+}
+
+.c {
+  white-space: pre-wrap;
+  width: 10px;
+  bottom: 5.4px;
+  right: 0;
+}
+
+.div1 {
+  color: var(--color-white);
+  width: 8px;
+  min-width: 8px;
+  bottom: 0;
+  right: 12.6px;
+}
+
+.math-education-details1 {
+  width: 20.6px;
+  height: 27.7px;
+  position: absolute;
+  bottom: 37.7px;
+  right: 281.1px;
+}
+
+.basic-of-c, .empty-course-item {
+  height: 22.3px;
+  display: inline-block;
+  position: absolute;
+}
+
+.basic-of-c {
+  white-space: pre-wrap;
+  width: 95px;
+  bottom: 5.4px;
+  right: 0;
+}
+
+.empty-course-item {
+  color: var(--color-white);
+  width: 8px;
+  min-width: 8px;
+  bottom: .1px;
+  right: 97.6px;
+}
+
+.math-education-details2 {
+  width: 105.6px;
+  height: 27.7px;
+  position: absolute;
+  bottom: 9.8px;
+  right: 198.2px;
+}
+
+.government-junior-college, .sompetasrikakulamap {
+  width: 208px;
+  height: 22.3px;
+  display: inline-block;
+  position: absolute;
+  bottom: 22.6px;
+  right: 0;
+}
+
+.sompetasrikakulamap {
+  width: 193px;
+  height: 22px;
+  bottom: .4px;
+  right: 15px;
+}
+
+.junior-college-details {
+  color: var(--color-black);
+  width: 208px;
+  height: 44.9px;
+  position: absolute;
+  bottom: 203.7px;
+  right: 5px;
+}
+
+.math-education {
+  width: 311.2px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 389.1px;
+}
+
+.experience-marker {
+  filter: blur(4.22px);
+  background-color: var(--color-gray-100);
+  border: 2.1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: -4.2px;
+  right: -1px;
+}
+
+.experience-marker-wrapper {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.primary-education-child {
+  object-fit: cover;
+  width: 311.2px;
+  height: 76px;
+  position: absolute;
+  bottom: 182.5px;
+  right: 3.2px;
+}
+
+.primary-school {
+  font-size: var(--font-size-mini-8);
+  white-space: pre-wrap;
+  width: 290.1px;
+  height: 20px;
+  display: inline-block;
+  position: absolute;
+  bottom: 154.1px;
+  right: 12.7px;
+}
+
+.sep-2010-april-2015 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+  margin: 0;
+}
+
+.sep-2010-april-container {
+  position: absolute;
+  bottom: 120.4px;
+  right: 137.5px;
+}
+
+.mathematics1, .relevant-course-work2 {
+  white-space: pre-wrap;
+  position: absolute;
+  bottom: 95.1px;
+  right: 110.6px;
+}
+
+.mathematics1 {
+  bottom: 5.3px;
+  right: 0;
+}
+
+.experience-detail-items {
+  color: var(--color-white);
+  min-width: 8px;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 104.6px;
+}
+
+.primary-education-details {
+  width: 112.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: 64.5px;
+  right: 190.2px;
+}
+
+.english, .experience-detail-items1 {
+  min-width: 59px;
+  display: inline-block;
+  position: absolute;
+  bottom: 5.3px;
+  right: 0;
+}
+
+.experience-detail-items1 {
+  color: var(--color-white);
+  min-width: 8px;
+  bottom: .1px;
+  right: 61.6px;
+}
+
+.primary-education-details1 {
+  width: 69.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: 37px;
+  right: 233.2px;
+}
+
+.remember-standard-subject {
+  position: absolute;
+  bottom: 5.3px;
+  right: 0;
+}
+
+.experience-detail-items2 {
+  color: var(--color-white);
+  min-width: 8px;
+  display: inline-block;
+  position: absolute;
+  bottom: .1px;
+  right: 224.6px;
+}
+
+.primary-education-details2 {
+  width: 232.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: 6.4px;
+  right: 70.2px;
+}
+
+.government-boys-high {
+  position: absolute;
+  bottom: 22.1px;
+  right: 0;
+}
+
+.school-details, .sompetasrikakulamap1 {
+  font-size: 15.8px;
+  position: absolute;
+  bottom: 0;
+  right: 34px;
+}
+
+.school-details {
+  color: var(--color-black);
+  width: 214px;
+  height: 42.1px;
+  font-size: 15.2px;
+  bottom: 199.5px;
+  right: 11.8px;
+}
+
+.primary-education {
+  width: 315.5px;
+  height: calc(100% - 4.1px);
+  position: absolute;
+  top: 0;
+  bottom: 4.1px;
+  right: 0;
+}
+
+.group-parent {
+  text-align: left;
+  font-size: var(--font-size-base-9);
+  color: var(--color-gainsboro);
+  font-family: var(--font-inika);
+  width: 1103.3px;
+  height: 262.6px;
+  position: absolute;
+  bottom: 325.1px;
+  right: 83.4px;
+}
+
+.core-javasql1 {
+  white-space: nowrap;
+  position: absolute;
+  bottom: 5.3px;
+  left: 142.1px;
+}
+
+.empty-certificate {
+  color: var(--color-white);
+  min-width: 8px;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  left: 135px;
+}
+
+.technical-skills {
+  width: 120.6px;
+  height: 27.3px;
+  position: absolute;
+  bottom: -.1px;
+  right: 251.4px;
+}
+
+.online-certificates {
+  white-space: pre-wrap;
+  position: absolute;
+  bottom: 0;
+  right: 178.4px;
+}
+
+.group-child {
+  object-fit: contain;
+  width: 174.1px;
+  height: 1.1px;
+  position: absolute;
+  bottom: 10.3px;
+  right: 0;
+}
+
+.online-certificates-parent {
+  color: var(--color-white);
+  width: 371.4px;
+  height: 22px;
+  position: absolute;
+  bottom: 159.9px;
+  left: 130px;
+}
+
+.large-1-icon {
+  object-fit: cover;
+  width: 372px;
+  height: 84.2px;
+  position: absolute;
+  bottom: 50px;
+  left: 140px;
+}
+
+.skills4 {
+  width: 372.4px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 674px;
+}
+
+.interests {
+  white-space: pre-wrap;
+  min-width: 101px;
+  display: inline-block;
+  position: absolute;
+  bottom: 135px;
+  right: 453px;
+}
+
+.group-item {
+  object-fit: contain;
+  width: 174.1px;
+  height: 1.1px;
+  position: absolute;
+  bottom: 143.9px;
+  right: 271.9px;
+}
+
+.background-shape {
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: .7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: -1.4px;
+  right: .4px;
+}
+
+.background-shape-wrapper {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.mingcuteearth-2-line-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  bottom: 2px;
+  right: 135px;
+}
+
+.software-development {
+  min-width: 128px;
+  display: inline-block;
+  position: absolute;
+  bottom: 10px;
+  right: 7px;
+}
+
+.interest-layout {
+  width: 168px;
+  height: 37px;
+  position: absolute;
+  bottom: 69px;
+  right: 386px;
+}
+
+.background-shape1 {
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: .7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: -1.4px;
+  right: .4px;
+}
+
+.background-shape-container {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.data-structure {
+  min-width: 82px;
+  display: inline-block;
+  position: absolute;
+  bottom: 10px;
+  right: 35px;
+}
+
+.interest-layout1 {
+  width: 168px;
+  height: 37px;
+  position: absolute;
+  bottom: 0;
+  right: 389px;
+}
+
+.group-inner, .interest-layout-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.group-inner {
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: .7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  bottom: -1.4px;
+  right: .4px;
+}
+
+.interest-layout-inner {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.algorithms {
+  white-space: pre-wrap;
+  min-width: 70px;
+  display: inline-block;
+  position: absolute;
+  bottom: 10px;
+  right: 46px;
+}
+
+.interest-layout2 {
+  width: 168px;
+  height: 37px;
+  position: absolute;
+  bottom: 0;
+  right: 190px;
+}
+
+.background-shape2 {
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: .7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: -1.4px;
+  right: .4px;
+}
+
+.background-shape-frame {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.web-development {
+  min-width: 104px;
+  display: inline-block;
+  position: absolute;
+  bottom: 10px;
+  right: 31px;
+}
+
+.interest-layout3 {
+  width: 168px;
+  height: 37px;
+  position: absolute;
+  bottom: 68px;
+  right: 191px;
+}
+
+.background-shape3, .group-div {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.background-shape3 {
+  filter: blur(1.39px);
+  background-color: var(--color-gray-100);
+  border: .7px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  bottom: -1.4px;
+  right: .4px;
+}
+
+.group-div {
+  bottom: 0;
+  right: 0;
+}
+
+.software-development1 {
+  min-width: 128px;
+  display: inline-block;
+  position: absolute;
+  bottom: 10px;
+  right: 7px;
+}
+
+.interest-layout4 {
+  width: 168px;
+  height: 37px;
+  position: absolute;
+  bottom: 68px;
+  right: 0;
+}
+
+.development-icon {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  bottom: 74px;
+  right: 140.5px;
+}
+
+.interest-categories {
+  font-size: var(--font-size-smi-1);
+  width: 100%;
+  height: 106px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.group-icon {
+  width: 21.2px;
+  height: 22px;
+  position: absolute;
+  bottom: 78px;
+  right: 330.2px;
+}
+
+.data-icon, .vector-icon1 {
+  width: 22.6px;
+  height: 21px;
+  position: absolute;
+  bottom: 8px;
+  right: 524.8px;
+}
+
+.vector-icon1 {
+  width: 24px;
+  height: 17.6px;
+  bottom: 9.4px;
+  right: 326.4px;
+}
+
+.interests-parent {
+  color: var(--color-white);
+  width: 557px;
+  height: 157px;
+  position: absolute;
+  bottom: 24.2px;
+  left: 570px;
+}
+
+.desktop-3, .skills-and-interests {
+  text-align: left;
+  font-family: var(--font-inika);
+}
+
+.skills-and-interests {
+  font-size: var(--font-size-base-9);
+  color: var(--color-gainsboro);
+  width: 1046.4px;
+  height: 181.9px;
+  position: absolute;
+  bottom: 41.8px;
+  right: 99.2px;
+}
+
+.desktop-3 {
+  background-color: var(--color-black);
+  letter-spacing: normal;
+  line-height: normal;
+  font-size: var(--font-size-2xl-1);
+  color: var(--color-white);
+  width: 100%;
+  height: 939px;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 767px) {
+  .r3 {
+    font-size: var(--font-size-21xl);
+  }
+
+  .amakrishna3 {
+    font-size: var(--font-size-11xl);
+  }
+
+  .t2 {
+    font-size: var(--font-size-21xl);
+  }
+
+  .ota2 {
+    font-size: var(--font-size-11xl);
+  }
+
+  .download-cv3 {
+    font-size: 27px;
+  }
+}
+
+@media screen and (width <= 450px) {
+  .r3 {
+    font-size: var(--font-size-11xl);
+  }
+
+  .amakrishna3 {
+    font-size: var(--font-size-4xl);
+  }
+
+  .t2 {
+    font-size: var(--font-size-11xl);
+  }
+
+  .ota2 {
+    font-size: var(--font-size-4xl);
+  }
+
+  .about6, .contact6, .education6, .home3, .projects3, .skills3 {
+    font-size: var(--font-size-mid);
+  }
+
+  .download-cv3 {
+    font-size: var(--font-size-xl);
+  }
+
+  .institution-description {
+    font-size: var(--font-size-mid);
+  }
+}
+/*# sourceMappingURL=desktop-3.c124a654.css.map */
